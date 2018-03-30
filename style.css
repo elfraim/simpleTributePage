@@ -1,0 +1,46 @@
+.title {
+  margin-top: 75px;
+}
+
+#background {
+  background-color: lightgray;
+  padding: 10px 10px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  width: 800px;
+  margin-left: 85px;
+}
+.caption {
+  position: relative;
+  padding: 0px;
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: white;
+  font-size: 13px;
+  font-style: italic;
+  margin-left: 85px;
+  padding: 5px 1px 1px 1px;
+}
+
+dl li {
+  font-size: 12px;
+}
+
+.timelinetitle {
+  margin-left: 240px;
+}
+
+#timeline {
+  width: 550px;
+  position: relative;
+  margin-left: 260px;
+}
+
+.prime {
+  font-size: 11px;
+  color: gray;
+}
